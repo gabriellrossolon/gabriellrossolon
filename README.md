@@ -13,9 +13,8 @@
 Gosto de programar jogos como hobby 🎲 — é onde exercito minha criatividade e lógica ao máximo!
 
 ## 📚 Sempre aprendendo
-Não paro nunca! Estou sempre estudando:
-- Node.js e Back-end com JavaScript
-- Banco de dados (SQL, MongoDB)
+Não paro nunca! Estou estudando atualmente:
+- ASP.NET para um Backend robusto em C#
 - Boas práticas, design patterns e arquitetura de software
 
 ## 📫 Fala comigo!
