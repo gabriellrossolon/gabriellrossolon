@@ -24,4 +24,5 @@ Quer trocar uma ideia, colaborar em um projeto ou só bater um papo sobre tecnol
 
 ---
 
-💻 Dá uma olhada nos meus repositórios — tem sempre algo novo (ou maluco) sendo criado por lá!
+💻 Dá uma olhada no meu portfólio também :) 
+https://portfolio-2025-cyan-eight.vercel.app
