@@ -4,8 +4,8 @@
 
 🚀 Atualmente focado no desenvolvimento Front-end, mas com o objetivo claro de me tornar um **Dev Full Stack**. Gosto de unir estética com lógica e transformar ideias em interfaces incríveis e funcionais.
 
-## 🧠 Tecnologias que domino
-- **Linguagens**: HTML, CSS, JavaScript, C#
+## 🧠 Minha Stack
+- **Linguagens**: HTML, CSS, JavaScript, TypeScript, C# .NET
 - **Frameworks & Libs**: React, Tailwind CSS
 - **Ferramentas e Outros**: Git, GitHub, Figma (básico), APIs REST
 
