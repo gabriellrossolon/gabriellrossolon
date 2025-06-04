@@ -52,11 +52,10 @@ Adoro criar jogos para exercitar minha lógica e criatividade. Nada melhor do qu
 
 ## 📚 Sempre aprendendo
 
-| Tecnologias que estudo agora | Status      |
+| Tecnologias que estou estudando | Status      |
 |------------------------------|-------------|
-| ASP.NET                      | Em andamento 🚧 |
-| Design Patterns              | Focado 🎯    |
-| Arquitetura de Software      | Explorando 🔍|
+| ASP.NET                      | Focado 🎯 |
+| TypeScript                      | Em andamento 🚧 |
 
 ---
 
