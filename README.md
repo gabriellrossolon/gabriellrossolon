@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Gabriell!
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdjNHQ5Yjgybnl1eHkwdTZqbXNxZnhkeHl6ajlpODZ1bXdkaG14bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
-  <h3>Desenvolvedor Front-end | Foco em Full Stack 🚀</h3>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR1dHpnYmw3aW1mZXp3aGV6czEyd3V4Yml1YWx0c3VpM2ppcHdvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" />
+  <h3>Desenvolvedor Front-end | Em transição para Full Stack 🚀</h3>
   <p>Transformando códigos em interfaces incríveis e funcionais.</p>
 </div>
 
@@ -43,8 +43,9 @@ Adoro criar jogos para exercitar minha lógica e criatividade. Nada melhor do qu
   <a href="mailto:gabrirossolon@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-gabrirossolon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <p></p>
   <a href="https://portfolio-2025-cyan-eight.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Portfólio-4CAF50?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/-Portfólio-4CAF50?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfólio"/>
   </a>
 </div>
 
