@@ -18,6 +18,8 @@
   <img alt="C#" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="40" height="40" />
   <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" width="40" height="40" />
   <img alt="Tailwind CSS" src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="40" height="40" />
+  <img alt="MySQL" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="40" height="40" />
+  <img alt="SQL" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" width="40" height="40" />
   <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40" />
   <img alt="GitHub" src="https://img.icons8.com/material-rounded/48/000000/github.png" width="40" height="40" />
 </div>
@@ -28,6 +30,7 @@
 
 - Desenvolvimento Front-end com React + TypeScript e Tailwind CSS
 - Backend com C# e ASP.NET
+- MySQL
 
 ---
 
@@ -48,15 +51,6 @@ Adoro criar jogos para exercitar minha lógica e criatividade. Nada melhor do qu
     <img src="https://img.shields.io/badge/-Portfólio-4CAF50?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfólio"/>
   </a>
 </div>
-
----
-
-## 📚 Sempre aprendendo
-
-| Tecnologias que estou estudando | Status      |
-|------------------------------|-------------|
-| ASP.NET                      | Focado 🎯 |
-| TypeScript                      | Em andamento 🚧 |
 
 ---
 
