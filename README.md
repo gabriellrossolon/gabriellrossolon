@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR1dHpnYmw3aW1mZXp3aGV6czEyd3V4Yml1YWx0c3VpM2ppcHdvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" />
-  <h3>Desenvolvedor Front-end | Em transição para Full Stack 🚀</h3>
+  <h3>Desenvolvedor Full-stack 🚀| </h3>
   <p>Transformando códigos em interfaces incríveis e funcionais.</p>
 </div>
 
@@ -27,7 +27,7 @@
 ## 🚀 Atualmente focado em...
 
 - Desenvolvimento Front-end com React + TypeScript e Tailwind CSS
-- Backend com C# e ASP.NET (em evolução!)
+- Backend com C# e ASP.NET
 
 ---
 
